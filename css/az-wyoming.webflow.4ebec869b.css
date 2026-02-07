@@ -10048,3 +10048,10 @@ blockquote {
 .w-webflow-badge {
   display: none !important;
 }
+
+/* Hide cart button */
+.nav-cart-holder,
+.cart-button,
+.w-commerce-commercecartwrapper {
+  display: none !important;
+}
